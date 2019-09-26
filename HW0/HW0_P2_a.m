@@ -20,7 +20,4 @@ ylabel('Frequency / Width');
 xlabel('Eigenvalues');
 title(['Averaged Histograms, K=',num2str(K),', N=',num2str(N),', M=',num2str(M)]);
 hold on
-% plot([-3:0.1:3], Wigner([-3:0.1:3]), '-r', 'linewidth', 2);
-% legend('histograms','analytical curve');
 saveas(gcf,['/Users/yangchenye/Downloads/HW0_2_a_',num2str(K),'_',num2str(N),'_',num2str(M),'.png'])
-% close;
