@@ -1,2 +1,2 @@
 # RAN-MAT-THR-APP-AI-DAT-SCI
- This is the lab part of RMT
+Columbia University ELEN E6880 Random Matrix Theory and Applications for AI & Data Science
